@@ -24,7 +24,7 @@ wife {
   justify-content: center; /* Horizontal centering */
   align-items: center;     /* Vertical centering */
   height: 100vh;
-
+  margin-bottom: -150%;
    margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -47,7 +47,7 @@ wife {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  margin-bottom: 2%;
+  
       
 }
 
@@ -161,5 +161,5 @@ wife {
 
 
 .balloon{
-  margin-bottom: 20%;
+  margin-bottom: 10%;
 }
